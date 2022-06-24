@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashiddiqi44/tugas-react/static/css/main.db695cdb.css",
+    "main.js": "/ashiddiqi44/tugas-react/static/js/main.87fd9461.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ashiddiqi44/tugas-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ashiddiqi44/tugas-react/index.html",
+    "main.db695cdb.css.map": "/ashiddiqi44/tugas-react/static/css/main.db695cdb.css.map",
+    "main.87fd9461.js.map": "/ashiddiqi44/tugas-react/static/js/main.87fd9461.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ashiddiqi44/tugas-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db695cdb.css",
+    "static/js/main.87fd9461.js"
+  ]
+}
